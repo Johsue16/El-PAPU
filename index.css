@@ -1,0 +1,151 @@
+/*Proyecto.css*/
+body {
+    background-color:beige;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+div {
+    background-color:wheat;
+    text-align: center;
+    width: 405px;
+    max-width: 800px;
+    padding: 10px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3),
+                -5px -5px 15px rgba(255, 255, 255, 0.5);
+    border: 5px coral;
+    border-style:solid;
+}
+
+img {
+    width: 140px;
+    height: 140px;
+    border-radius: 40%;
+    display:inline-block;
+    margin: 0 auto 15px;
+    border: 3px solid coral;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.Perfil {
+    background-color:wheat;
+    text-align: center;
+    display: flexbox;
+    width: 370px;
+    padding: 10px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3),
+                -5px -5px 15px rgba(255, 255, 255, 0.5);
+    border: 5px  coral;
+    border-style:solid;
+}
+
+table {
+    background-color:wheat;
+    text-align: center;
+    display: flexbox;
+    width: 370px;
+    padding: 10px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3),
+                -5px -5px 15px rgba(255, 255, 255, 0.5);
+    border: 5px coral;
+    border-style:solid;
+}
+
+.enlaceTikTok {
+    background-color:wheat;
+    display: flexbox;
+    width: 370px;
+    padding: 10px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3),
+                -5px -5px 15px rgba(255, 255, 255, 0.5);
+    border: 5px coral;
+    border-style:solid;
+}
+
+.enlaceTikTok:hover {
+    transform: scale(1.1);
+}
+
+.enlaceFacebook {
+    background-color:wheat;
+    display: flexbox;
+    width: 370px;
+    padding: 10px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3),
+                -5px -5px 15px rgba(255, 255, 255, 0.5);
+    border: 5px coral;
+    border-style:solid;
+}
+
+.enlaceFacebook:hover {
+    transform: scale(1.1);
+}
+
+.enlaceInstagram {
+    background-color:wheat;
+    display: flexbox;
+    width: 370px;
+    padding: 10px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3),
+                -5px -5px 15px rgba(255, 255, 255, 0.5);
+    border: 5px coral;
+    border-style:solid;
+}
+
+.enlaceInstagram:hover {
+    transform: scale(1.1);
+}
+
+.Galería {
+    background-color:wheat;
+    text-align: center;
+    width: 370px;
+    padding: 10px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3),
+                -5px -5px 15px rgba(255, 255, 255, 0.5);
+    border: 5px coral;
+    border-style:solid;
+}
+  
+.meg:hover {
+    transform: scale(1.1);
+
+}
+
+.Habilidades {
+    background-color:wheat;
+    text-align: center;
+    width: 370px;
+    padding: 10px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3),
+                -5px -5px 15px rgba(255, 255, 255, 0.5);
+    border: 5px coral;
+    border-style:solid;
+}
+
+.pink:hover {
+    transform: scale(1.1);
+}
+
+.pink {
+    width: 100px;
+    height: 100px;
+    border-radius: 40%;
+    display:inline-block;
+    margin: 0 auto 15px;
+    border: 3px solid coral;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
